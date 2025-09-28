@@ -1,0 +1,2 @@
+- EDGAR fetcher -> extractor -> token-aware chunker -> embeddings -> FAISS -> Chat compare
+- Use XBRL for numeric facts, HTML extraction for prose
